@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" remark="Main">
+  <displayList>
+    <image id="n9_jfzh" name="n9" src="jfzh9" fileName="Images/main_poster.jpg" xy="0,0"/>
+    <component id="n0_jfzh" name="LoginBtn" src="jfzh1" fileName="Components/LoginBtn.xml" xy="250,1340"/>
+    <component id="n4_jfzh" name="AccountInput" src="jfzh5" fileName="Components/InputField.xml" xy="359,1072"/>
+    <component id="n5_jfzh" name="PasswordInput" src="jfzh5" fileName="Components/InputField.xml" xy="359,1194"/>
+  </displayList>
+</component>

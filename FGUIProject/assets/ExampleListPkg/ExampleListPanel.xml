@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" remark="Main">
+  <displayList>
+    <list id="n0_laxn" name="List" xy="112,290" size="855,1475" layout="flow_hz" overflow="scroll" scrollBarFlags="128" lineGap="45" colGap="45" defaultItem="ui://73sapar1laxn1" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n2_pp0u" name="BackBtn" src="laxn1" fileName="Components/ExampleBtn.xml" xy="98,85" size="216,110">
+      <Button title="返回"/>
+    </component>
+  </displayList>
+</component>

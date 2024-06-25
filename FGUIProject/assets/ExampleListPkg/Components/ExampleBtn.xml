@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="300,100" extention="Button">
+  <displayList>
+    <graph id="n2_laxn" name="n2" xy="0,0" size="300,100" type="rect">
+      <relation target="" sidePair="width-width,height-height%"/>
+    </graph>
+    <text id="n0_laxn" name="title" xy="0,-1" size="300,100" fontSize="50" align="center" vAlign="middle" autoSize="none" text="Example">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="dark" downEffectValue=".8"/>
+</component>

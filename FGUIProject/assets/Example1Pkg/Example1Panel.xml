@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" remark="Main">
+  <displayList>
+    <graph id="n2_njzh" name="n2" xy="-1,0" size="1080,1920" type="rect" fillColor="#ff00ccff"/>
+    <component id="n0_cj8s" name="Btn1" src="cj8s1" fileName="Components/ExampleBtn.xml" xy="391,646">
+      <Button title="传递1个参数"/>
+    </component>
+    <text id="n1_cj8s" name="n1" xy="266,415" size="548,86" fontSize="50" align="center" vAlign="middle" autoSize="none" text="传递参数给打开的界面"/>
+    <component id="n3_njzh" name="BackBtn" src="cj8s1" fileName="Components/ExampleBtn.xml" xy="98,85" size="216,110">
+      <Button title="返回"/>
+    </component>
+    <component id="n4_pp0u" name="Btn2" src="cj8s1" fileName="Components/ExampleBtn.xml" xy="391,833">
+      <Button title="传递5个参数"/>
+    </component>
+  </displayList>
+</component>

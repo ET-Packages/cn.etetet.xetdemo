@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5qlx9ljj">
+  <resources>
+    <component id="cj8s0" name="Example1Panel.xml" path="/" exported="true"/>
+    <component id="cj8s1" name="ExampleBtn.xml" path="/Components/" exported="true"/>
+    <component id="cj8s2" name="APanel.xml" path="/Components/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" remark="Main">
+  <displayList>
+    <graph id="n2_pp0u" name="n2" xy="0,0" size="1080,1920" type="rect" fillColor="#80000000"/>
+    <graph id="n0_njzh" name="n0" xy="270,480" size="540,960" type="rect" fillColor="#ff999966"/>
+    <text id="n1_njzh" name="Text" xy="340,705" size="399,509" fontSize="30" align="center" autoSize="none" autoClearText="true" text="文字"/>
+  </displayList>
+</component>

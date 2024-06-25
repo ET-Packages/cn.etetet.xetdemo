@@ -1,0 +1,16 @@
+{
+    "references": [
+        "ET.Core",
+        "Unity.Mathematics",
+        "ET.Loader",
+        "MemoryPack",
+        "ET.Model",
+        "ET.Hotfix",
+        "ET.ModelView",
+        "XET.YooAssets",
+        "YooAsset",
+        "XET.FUI",
+        "ET.ReferenceCollector",
+        "ET.Init"
+    ]
+}
