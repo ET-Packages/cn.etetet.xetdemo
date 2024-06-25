@@ -2,7 +2,7 @@ using Unity.Mathematics;
 
 namespace ET
 {
-    [Event(SceneType.FUIExample)]
+    [Event(SceneType.XETDemo)]
     public class EntryEvent1_InitShare: AEvent<Scene, EntryEvent1>
     {
         protected override async ETTask Run(Scene root, EntryEvent1 args)

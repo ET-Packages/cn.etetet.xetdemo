@@ -1,7 +1,7 @@
 
 namespace ET.Client
 {
-    [Event(SceneType.FUIExample)]
+    [Event(SceneType.XETDemo)]
     public class EntryEvent3_InitClient1: AEvent<Scene, EntryEvent3>
     {
         protected override async ETTask Run(Scene root, EntryEvent3 args)
