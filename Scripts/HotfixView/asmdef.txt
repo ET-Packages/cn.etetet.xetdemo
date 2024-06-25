@@ -7,7 +7,7 @@
         "ET.Model",
         "ET.Hotfix",
         "ET.ModelView",
-        "XET.YooAssets",
+        "ET.YooAssets",
         "YooAsset",
         "XET.FUI",
         "ET.ReferenceCollector",

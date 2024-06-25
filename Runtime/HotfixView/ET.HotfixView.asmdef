@@ -11,7 +11,7 @@
         "ET.ModelView",
         "YooAsset",
         "ET.Init",
-        "XET.YooAssets",
+        "ET.YooAssets",
         "XET.FUI",
         "ET.ReferenceCollector"
     ],

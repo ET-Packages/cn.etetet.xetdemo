@@ -6,6 +6,7 @@
         "Unity.Mathematics",
         "MemoryPack",
         "ET.Model",
+        "ET.Recast",
         "ET.Loader"
     ],
     "includePlatforms": [

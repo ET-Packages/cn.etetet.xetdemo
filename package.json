@@ -30,8 +30,7 @@
     "cn.etetet.aoi": "https://github.com/ET-Packages/cn.etetet.aoi.git#0.0.1",
     "cn.etetet.referencecollector": "https://github.com/ET-Packages/cn.etetet.referencecollector.git#0.0.1",
     "cn.etetet.login": "https://github.com/ET-Packages/cn.etetet.login.git#0.0.1",
-    "cn.etetet.xetyooassets": "https://github.com/ET-Packages/cn.etetet.xetyooassets.git#0.0.1",
-    "cn.etetet.xetfui": "https://github.com/ET-Packages/cn.etetet.xetfui.git#0.0.1",
-    "cn.etetet.xetdemo": "https://github.com/ET-Packages/cn.etetet.xetdemo.git#0.0.1"
+    "cn.etetet.yooassets": "https://github.com/ET-Packages/cn.etetet.yooassets.git#0.0.1",
+    "cn.etetet.xetfui": "https://github.com/ET-Packages/cn.etetet.xetfui.git#0.0.1"
   }
 }
