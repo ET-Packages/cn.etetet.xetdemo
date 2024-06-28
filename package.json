@@ -32,8 +32,8 @@
     "cn.etetet.aoi": "0.0.1",
     "cn.etetet.referencecollector": "0.0.1",
     "cn.etetet.login": "0.0.1",
-    "cn.etetet.xetfui": "0.0.1",
-    "cn.etetet.xetyooassets": "0.0.1"
+    "cn.etetet.xetfui": "0.0.2",
+    "cn.etetet.xetyooassets": "0.0.2"
   },
   "publishConfig":
   {
