@@ -7,9 +7,9 @@
         "ET.Loader",
         "ET.Model",
         "YooAsset",
+        "ET.SourceGeneratorAttribute",
         "ET.Init",
-        "XET.FUI",
-        "ET.YooAssets"
+        "XET.FUI"
     ],
     "includePlatforms": [
         "Editor"

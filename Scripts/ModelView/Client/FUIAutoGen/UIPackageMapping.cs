@@ -13,7 +13,7 @@ namespace ET.Client
          {"5qlx9ljj", "Example1Pkg"},
          {"73sapar1", "ExampleListPkg"},
          {"qptb9pl1", "LoginPkg"},
-         //<last line>
+         // <last line>
       };
 
       public string GetPackageNameById(string id)
