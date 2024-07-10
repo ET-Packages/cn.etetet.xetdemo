@@ -8,7 +8,6 @@
         "ET.Model",
         "YooAsset",
         "ET.SourceGeneratorAttribute",
-        "ET.Init",
         "XET.FUI"
     ],
     "includePlatforms": [
