@@ -22,12 +22,12 @@ namespace ET.Client
         {
             self.Scene().GetComponent<FUIComponent>().ClosePanel(self);
         }
-      
+
         private static void OnBtn1(this Example1Panel self)
         {
             self.Scene().GetComponent<FUIComponent>().ShowPanelAsync<APanel, string>("arg1").NoContext();
         }
-        
+
         private static void OnBtn2(this Example1Panel self)
         {
             self.Scene().GetComponent<FUIComponent>().ShowPanelAsync<APanel, int, int, string, string, string>(1, 2, "C", "D", "E").NoContext();

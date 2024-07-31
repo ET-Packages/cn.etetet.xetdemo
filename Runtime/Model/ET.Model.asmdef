@@ -3,10 +3,11 @@
     "rootNamespace": "ET",
     "references": [
         "ET.Core",
-        "Unity.Mathematics",
-        "MemoryPack",
+        "ET.MemoryPack",
+        "ET.Recast",
         "ET.SourceGeneratorAttribute",
-        "ET.Recast"
+        "ET.YooAssets",
+        "Unity.Mathematics"
     ],
     "includePlatforms": [
         "Editor"

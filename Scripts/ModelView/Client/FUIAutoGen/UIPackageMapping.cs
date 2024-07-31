@@ -5,20 +5,20 @@ using FairyGUI.Dynamic;
 
 namespace ET.Client
 {
-   [EnableClass]
-   public sealed class UIPackageMapping : IUIPackageHelper
-   {
-      private readonly Dictionary<string, string> m_PackageIdToNameMap = new()
-      {
-         {"5qlx9ljj", "Example1Pkg"},
-         {"73sapar1", "ExampleListPkg"},
-         {"qptb9pl1", "LoginPkg"},
-         // <last line>
-      };
+    [EnableClass]
+    public sealed class UIPackageMapping : IUIPackageHelper
+    {
+        private readonly Dictionary<string, string> m_PackageIdToNameMap = new()
+        {
+            { "5qlx9ljj", "Example1Pkg" },
+            { "73sapar1", "ExampleListPkg" },
+            { "qptb9pl1", "LoginPkg" },
+            // <last line>
+        };
 
-      public string GetPackageNameById(string id)
-      {
-         return m_PackageIdToNameMap.TryGetValue(id, out var packageName) ? packageName : null;
-      }
-   }
+        public string GetPackageNameById(string id)
+        {
+            return m_PackageIdToNameMap.TryGetValue(id, out var packageName) ? packageName : null;
+        }
+    }
 }

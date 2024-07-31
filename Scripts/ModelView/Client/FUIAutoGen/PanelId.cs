@@ -2,13 +2,13 @@
 
 namespace ET.Client
 {
-   public enum PanelId
-   {
-      Invalid = 0,
-      Example1Panel,
-      APanel,
-      ExampleListPanel,
-      LoginPanel,
-      // <last line>
-   }
+    public enum PanelId
+    {
+        Invalid = 0,
+        Example1Panel,
+        APanel,
+        ExampleListPanel,
+        LoginPanel,
+        // <last line>
+    }
 }
